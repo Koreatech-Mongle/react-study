@@ -28,9 +28,8 @@ export default function Login({loginMember, setLoginMember}: Props) {
             if (member.id === serverMember?.id && member.password === String(serverMember?.pw)) {
                 setLoginMember(serverMember);
                 setLoginStatus(true);
-                console.log('Hi!');
             } else {
-                console.log('UnPass!');
+                return alert("회원 정보가 불일치합니다.");
             }
         }
     }
