@@ -1,0 +1,28 @@
+{
+  "member": [
+    {
+      "idx": 1,
+      "id": "sooyeon",
+      "pw": 1234,
+      "name": "최수연"
+    },
+    {
+      "idx": 2,
+      "id": "sungmin",
+      "pw": 1234,
+      "name": "한성민"
+    },
+    {
+      "idx": 3,
+      "id": "jinhyung",
+      "pw": 1234,
+      "name": "이진형"
+    },
+    {
+      "idx": 4,
+      "id": "gyuba",
+      "pw": 1234,
+      "name": "심규재"
+    }
+  ]
+}
